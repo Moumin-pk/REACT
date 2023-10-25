@@ -1,0 +1,19 @@
+.thumbinal{
+    width: 450px;
+    margin: 0px 10px;
+}
+h2{
+    color: cornflowerblue;
+    display: block;
+    padding: 10px;
+}
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:  10px;
+}
+.section{
+    background-color:rgb(60, 57, 57);
+    margin: 0px 10px;
+}
